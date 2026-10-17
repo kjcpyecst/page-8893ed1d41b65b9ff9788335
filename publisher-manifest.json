@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "287bb85ded117eef2a768cf6",
+  "owner": "kjcpyecst",
+  "repo": "page-8893ed1d41b65b9ff9788335",
+  "title": "火星联盟(hxlm)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8893ed1d41b65b9ff9788335",
+      "a": "火星联盟(hxlm)",
+      "b": "",
+      "entity": "火星联盟(hxlm)",
+      "brand": "火星联盟(hxlm)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "6d16e9b1c3d521107b31dd56153a98a5db1e61aca440d62d33be89afbafcbbca",
+      "content": {
+        "keyword1": "火星联盟(hxlm)",
+        "keyword2": "",
+        "primary_entity": "火星联盟(hxlm)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "火星联盟(hxlm)提供可靠的VPN服务。基础版每月100GB，旗舰版300GB，团队版1000GB。满足日常使用与企业需求。",
+          "AI_DESCRIPTION": "火星联盟(hxlm)提供可靠的VPN服务。基础版每月100GB，旗舰版300GB，团队版1000GB。满足日常使用与企业需求。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<main><style>\nbody{margin:0;font-family:system-ui,-apple-system,sans-serif;background:#111;color:#eee;line-height:1.5}\nheader{background:#000;padding:2rem 0;text-align:center;position:sticky;top:0;z-index:10}\nnav{background:#000;padding:1rem 0;display:flex;justify-content:center;gap:2rem}\nnav a{color:#0f0;text-decoration:none;font-weight:600}\nnav a:hover{color:#0ff}\n#hero{padding:4rem 2rem;background:#000;color:#0f0}\nh1{font-size:3.5rem;margin:0 0 1rem;letter-spacing:-2px}\n.hero-text{font-size:1.1rem;max-width:800px;margin:0 auto;text-align:left}\nsection{padding:3rem 2rem;max-width:1200px;margin:0 auto}\ntable{width:100%;border-collapse:collapse;margin:2rem 0;background:#1a1a1a}\nth,td{padding:1rem;text-align:left;border-bottom:1px solid #333}\nth{background:#222}\n.featured td{border:2px solid #0f0;border-radius:12px;box-shadow:0 10px 30px rgba(0,255,0,0.2)}\n.card{border-radius:16px;overflow:hidden;box-shadow:0 8px 25px rgba(0,255,0,0.15)}\n#faq{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:2rem}\ndetails{background:#1a1a1a;padding:1.5rem;border-radius:12px;margin-bottom:1rem}\nsummary{font-weight:600;cursor:pointer}\n</style><nav>\n<a href=\"#hero\">首页</a>\n<a href=\"#plans\">套餐</a>\n<a href=\"#faq\">FAQ</a>\n</nav>\n\n<header id=\"hero\">\n<h1>火星联盟(hxlm)</h1>\n<div class=\"hero-text\">\n我们的服务快速。连接稳定。数据无限接近。火星联盟(hxlm)专注全球网络优化。无论您是个人用户还是企业团队。都能找到合适方案。基础版满足日常需求。旗舰版解锁更多功能。团队版适合大规模使用。我们优化节点分布。确保低延迟高速度。用户无需复杂操作。即可使用。我们的目标是让每一次连接都顺畅。\n</div>\n</header>\n\n<section id=\"plans\">\n<h2>我们的套餐</h2>\n<table>\n<thead>\n<tr>\n<th>版本</th>\n<th>月付</th>\n<th>年付</th>\n<th>流量</th>\n<th>设备</th>\n<th>特点</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>基础版</td>\n<td>¥15/月</td>\n<td>¥150/年</td>\n<td>100GB</td>\n<td>3台</td>\n<td>普通线路节点池。基础流媒体解锁。</td>\n</tr>\n<tr class=\"featured\">\n<td>旗舰版</td>\n<td>¥35/月</td>\n<td>¥350/年</td>\n<td>300GB</td>\n<td>5台</td>\n<td>全节点原生解锁。IPLC专线优化。7x24工单支持。</td>\n</tr>\n<tr>\n<td>团队版</td>\n<td>¥85/月</td>\n<td>¥850/年</td>\n<td>1000GB</td>\n<td>20台</td>\n<td>VIP高带宽节点。企业定制路由。专属客户经理。</td>\n</tr>\n</tbody>\n</table>\n</section>\n\n<section id=\"faq\">\n<h2>常见问题</h2>\n<div>\n<details>\n<summary>火星联盟(hxlm)是什么服务？</summary>\n<p>火星联盟(hxlm)是全球网络加速平台。提供高速稳定连接。支持不同流量需求。</p>\n</details>\n<details>\n<summary>如何选择套餐？</summary>\n<p>基础版适合个人日常使用。旗舰版适合需要稳定解锁的用户。团队版适合多人共享或企业场景。</p>\n</details>\n<details>\n<summary>支持哪些设备？</summary>\n<p>所有套餐支持多台设备同时在线。基础版3台。旗舰版5台。团队版20台。</p>\n</details>\n<details>\n<summary>节点位置在哪里？</summary>\n<p>节点分布全球各地。覆盖亚洲欧美等主要地区。确保低延迟连接。</p>\n</details>\n<details>\n<summary>如何获取更多流量？</summary>\n<p>套餐按月自动更新。年付用户可节省费用。无额外流量消耗。</p>\n</details>\n</div>\n</section></main>",
+          "hash": "bfbd706746c7db0b0f2f16d2b925ea2f0e0ea4b6aa5f29e2546bd88c81eb32d2",
+          "seo": {
+            "title": "火星联盟(hxlm) - 高速稳定网络服务",
+            "keywords": "火星联盟, hxlm, VPN, 网络加速, 套餐选择",
+            "description": "火星联盟(hxlm)提供可靠的VPN服务。基础版每月100GB，旗舰版300GB，团队版1000GB。满足日常使用与企业需求。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "4940",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tiandiguanai.cn",
+    "host": "p-9100f63711.tiandiguanai.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "10a588d3ef8318ce28571ba0ed7c8e899744487a2c0fc2d7529ccfd547711b9b",
+    "sitemap.xml": "a6ca86bcea7eea41a0bc4b1f1cf321ba8aa79bc6ef7a2df25ea4ec104ee5c704",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ac98ba68f21d334e61aa251f36415e20e01f16893d749dcd3c6b4a910ee2789d",
+    "robots.txt": "fe3921cd6ff79bfd1ffce82621d1ae212880fca103db6ab25f45cc82e767e32c",
+    "d0878175313c2b0894f3dd7c1189d09c.txt": "e444f1d33c02ba5d03bed57dcc3cdf025074489790ce9fddfc27471f558156fb"
+  },
+  "revision": "f9bb95d35ce656e6d2c48444f06975625eac6d7d4746d5cb2967f6d18d87b480"
+}
